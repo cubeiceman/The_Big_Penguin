@@ -1,4 +1,4 @@
-# The_Big_Penguin
+# The Big Penguin
 ![image](https://github.com/cubeiceman/Hackathon/assets/88341723/9b3ab95f-bb06-4a1e-9ced-28e24616f331)
 
 The Big Penguin is a game that rewards you for taking notes and using them to arm your penguin. You can upload your notes to a program that grades them. You will also see a progress meter that fills up as you upload more notes.
